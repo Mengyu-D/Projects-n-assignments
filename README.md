@@ -1,2 +1,2 @@
-# GR5015 DATASETS
-**Just somewhere I host my datasets for my Data Analysis class...
+# DATASETS
+**Just somewhere I host my datasets for my datasets for school projects and assignments
